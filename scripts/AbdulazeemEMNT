@@ -1,0 +1,6 @@
+// LANGUAGE: Javascript
+// ENV: Node.js
+// AUTHOR: Adebiyi Abdulazeem
+// GITHUB: https://github.com/AbdulazeemEMNT
+
+console.log('Hello, World! Abdulazeem.js');
